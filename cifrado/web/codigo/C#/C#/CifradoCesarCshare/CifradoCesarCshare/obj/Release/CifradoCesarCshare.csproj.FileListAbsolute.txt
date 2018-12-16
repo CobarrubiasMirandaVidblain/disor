@@ -1,0 +1,20 @@
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.exe.config
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.exe
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.pdb
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csprojAssemblyReference.cache
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.InterfazGrafica.resources
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.Properties.Resources.resources
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csproj.GenerateResource.cache
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.exe
+C:\Users\charl\Desktop\Patrones\Escritorio\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.pdb
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.exe.config
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.exe
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\bin\Release\CifradoCesarCshare.pdb
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csprojAssemblyReference.cache
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.InterfazGrafica.resources
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.Properties.Resources.resources
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csproj.GenerateResource.cache
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.csproj.CoreCompileInputs.cache
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.exe
+C:\Users\COBA\Downloads\patrones final\C#\C#\CifradoCesarCshare\CifradoCesarCshare\obj\Release\CifradoCesarCshare.pdb
